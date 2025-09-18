@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Handwoven Cotton Saree",
+    "artisan": "Meera Handlooms",
+    "craft": "Weaving",
+    "productType": "Saree",
+    "price": 2500,
+    "location": "Bangalore",
+    "image": "https://example.com/saree1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Terracotta Vase",
+    "artisan": "Raju Pottery",
+    "craft": "Pottery",
+    "productType": "Home Decor",
+    "price": 800,
+    "location": "Khammam",
+    "image": "https://example.com/vase1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hand-painted Wooden Box",
+    "artisan": "Sita Crafts",
+    "craft": "Woodwork",
+    "productType": "Storage",
+    "price": 1200,
+    "location": "Jaipur",
+    "image": "https://example.com/woodbox1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Block Printed Kurta",
+    "artisan": "Ravi Textiles",
+    "craft": "Printing",
+    "productType": "Clothing",
+    "price": 1800,
+    "location": "Lucknow",
+    "image": "https://example.com/kurta1.jpg"
+  }
+]
